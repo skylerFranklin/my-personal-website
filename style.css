@@ -3,10 +3,15 @@ h1{
 } 
 
 img{
-     margin-left: 100 px;
+     margin-left: 43%;
+    width: 14%;
 }
 
 h2 { 
-    font-family: ‘Indie Flower’, Arial, serif; 
+    font-family:  Orbitron; 
     font-weight:  200; 
 }
+
+body{
+     background-color: #00ff00;
+} 
